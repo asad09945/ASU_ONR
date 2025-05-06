@@ -9,7 +9,7 @@ Welcome to the **ASU_ONR** project! This repository contains work from a cyberse
 | File | Description |
 |------|-------------|
 | `CleaningAndPreprocesssing.ipynb` | Loads and preprocesses network traffic data efficiently, optimizing for memory usage. |
-| `NetworkThreatDetection.ipynb` | Implements unsupervised and supervised learning techniques to detect anomalies and threats. |
+| `NetworkThreatDetection.ipynb` | Implements unsupervised learning techniques to detect anomalies and threats. |
 
 ---
 
